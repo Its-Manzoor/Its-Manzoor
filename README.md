@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+git clone https://github.com/Manzoor-vau-69/OLD-ID-CLONER-VS2
+cd OLD-ID-CLONER-VS2
+python Free-Cloner.py
